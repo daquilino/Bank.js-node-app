@@ -1,6 +1,5 @@
-# node-bank
-Bank.js - a node.js command line bank app.
 
+# Bank.js - a node.js command line bank app.
 
 
 bank.js is a Node application which takes in user inputs via the command line to register bank transactions and writes them to a file balance.txt.
